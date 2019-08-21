@@ -9,6 +9,7 @@
 
 <script>
 document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 5 + 5;
 </script>
 
 </body>
