@@ -8,7 +8,7 @@
 <p id="demo"></p>
 
 <script>
-document.getElementById("demo").innerHTML = 5 + 6;
+document.getElementById("demo").innerHTML = 7+5;
 document.getElementById("demo").innerHTML = 5 + 5;
 </script>
 
